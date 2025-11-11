@@ -2,7 +2,7 @@
 <img width="741" height="481" alt="image" src="https://github.com/user-attachments/assets/de7d299c-8ac9-4ee5-bbe8-b83f035a1af0" />
 
 ## Описание проекта
-
+ 
 Микросервисное приложение для конвертации видео (MP4) в аудио (MP3) на базе Python и Kubernetes, адаптированное для развертывания в домашней инфраструктуре Proxmox.
 
 ## Архитектура решения
